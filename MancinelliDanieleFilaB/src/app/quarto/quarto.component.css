@@ -1,0 +1,11 @@
+#style {
+    color: rgb(255, 230, 0);
+}
+
+#bordo {
+    background-color: white;
+    border: 2px solid gray;
+    padding-top: 3px;
+    padding-bottom: 5px;
+    padding-left: 12px;
+}
